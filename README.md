@@ -19,4 +19,4 @@ streamlit run app.py
 
 ## Live Demo
 
-[Open App](https://indian-stock-signal-generator-5njd3ultipdop4bqvdzrd.streamlit.app)
+[Open App](https://indian-stock-signal-generator-5njd3dultipdop4bqvdzrd.streamlit.app/)
